@@ -37,7 +37,7 @@ class UserPolicy
         return $user->email === 'khaled@alqady.com' ;
     }
 
-    public function edit( User $user , User $mode){
+    public function edit( User $user , User $model){
         return (bool) mt_rand(0, 1);
     }
 
