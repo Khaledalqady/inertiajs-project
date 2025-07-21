@@ -13,8 +13,9 @@ A Laravel-based users web application made by inertiajs/vue(3) features,it has a
 - Laravel 8.75
 - PHP 8.2
 - MySQL
--Inertiajs/vue(3)
+- Inertiajs/vue(3)
 - Tailwindcss
+
 
 ## ⚙️ Installation
 1. git clone https://github.com/Khaledalqady/inertia.git
